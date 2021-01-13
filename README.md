@@ -1,4 +1,4 @@
-# EAS Pemrograman Integratif M Rafi Aldi 05311840000018
+# EAS Pemrograman Web M Rafi Aldi 05311840000018
 ## Membuat web donasi untuk penanggulangan Corona
 
 Tugas dari EAS mata pelajaran Pemrograman Web adalah saya membuat website untuk bantuan penanggulangan Corona. 
