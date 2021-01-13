@@ -19,7 +19,7 @@ Dan jika belum memiliki akun maka silahkan klik "disini" dan akan langsung ke ha
 
 Jika sudah maka akan langsung ke halaman Home nya
 
-![Imagedescription](https://discordapp.com/channels/691256969876471808/691256969876471811/798710376979890196)
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/798710376556396614/unknown.png)
 
 Kemudian ada pilihan untuk melakukan `Charity` atau melihat `List Charity`
 Jika ingin melakukan Charity, maka klik Charity dan akan muncul gambar seperti ini 
