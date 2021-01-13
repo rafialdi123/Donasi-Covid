@@ -5,7 +5,7 @@ Tugas dari EAS mata pelajaran Pemrograman Web adalah saya membuat website untuk 
 
 Alur pertama yaitu kita memasukkan 
 > Home Website -> Mengisi Form Sumbangan dengan nama, jenis kelamin, jenis sumbangan, dan jumlah sumbangan -> Jika sudah akan masuk di list penyumbang dan daftar para penyumbang -> Sumbangan / Donasi telah berhasil
-
+https://cdn.discordapp.com/attachments/691256969876471811/798710376556396614/unknown.png
 Tidak usah berlama-lama, langsung kita masukkan gambar nya saja
 
 Pertama tama ini harus Login terlebih dahulu seperti ini 
